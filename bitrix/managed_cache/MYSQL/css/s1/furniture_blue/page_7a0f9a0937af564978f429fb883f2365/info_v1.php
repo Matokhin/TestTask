@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/furniture_blue/components/bitrix/news.list/flat/style.css" => "16709549063329","/local/templates/furniture_blue/components/bitrix/news.list/flat/themes/blue/style.css" => "1670954906205","/local/templates/furniture_blue/components/bitrix/iblock.vote/flat/style.css" => "1670955248123",]; ?>
